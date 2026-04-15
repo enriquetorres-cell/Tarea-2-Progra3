@@ -1,4 +1,6 @@
 Integrantes:
+
+
 Enrique Eusebio Torres Chafloque
 
 CoreNumeric
